@@ -8,7 +8,7 @@ function bildeBytt() {
 
   if (document.getElementById("klikkBytte").src == "Bilder/images/try_again.png") 
   {
-      document.getElementById("klikkBytte").src = "Bilder/images/try_again.png";
+      document.getElementById("klikkBytte").src = "Bilder/images/winner.png";
   }
   else 
   {
